@@ -30,24 +30,21 @@ namespace ValueTypeTest
 
             // UInt data type is generally
             // used for unsigned integer values
+            //p2_2-s1-1 定义无符号int,short,long
             uint ui = 95;
-
             ushort us = 76;
-            // this will give error as number is
-            // larger than short range
-
-            // ulong data type is generally
-            // used for unsigned integer values
             ulong ul = 3624573;
 
-            // by default fraction value
+            //p2_2-s1-2  by default fraction value
             // is double in C#
             double d = 8.358674532;
 
-            // for float use 'f' as suffix
+            //p2_2-s1-3 for float use 'f' as suffix
             float f = 3.7330645f;
 
-            // for float use 'm' as suffix
+            //p2_2-s1-4 The decimal type is a 128-bit data type suitable
+            //for financial and monetary calculations. 
+            //可以理解为一个超大空间的double
             decimal dec = 389.5m;
 
             Console.WriteLine("char: " + a);
