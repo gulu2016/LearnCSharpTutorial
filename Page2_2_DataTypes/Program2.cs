@@ -7,7 +7,7 @@ namespace ValueTypeTest
     {
 
         // Main function
-        static void Main_test()
+        static void Main2()
         {
             sbyte a = 126;
 
@@ -15,6 +15,7 @@ namespace ValueTypeTest
             // singned value
             Console.WriteLine(a);
 
+            //p2_2-s2-1 sbyte类型是[-128，127]，所以连续增加会溢出
             a++;
             Console.WriteLine(a);
 
