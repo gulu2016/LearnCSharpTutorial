@@ -24,7 +24,7 @@ namespace privateConstructorExample
         }
 
         // Main Method
-        public static void Main()
+        public static void Main3()
         {
 
             // If you uncomment the following
