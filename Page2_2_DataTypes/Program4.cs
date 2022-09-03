@@ -8,7 +8,7 @@ namespace ValueTypeTest
     {
 
         // Main Function
-        static void Main()
+        static void Main4()
         {
 
             // declaring string
