@@ -5,7 +5,7 @@ namespace ConsoleApplication1
 {
 
     // Base class
-    //p4_2-s5-1 父类的定义
+    //p4_3-s1-1 父类的定义
     class GFG
     {
 
@@ -24,7 +24,7 @@ namespace ConsoleApplication1
     }
 
     // inheriting the GFG class using :
-    //p4_2-s5-2 使用:继承父类
+    //p4_3-s1-2 使用:继承父类
     class GeeksforGeeks : GFG
     {
 
@@ -44,12 +44,12 @@ namespace ConsoleApplication1
         {
 
             // creating object of derived class
-            //p4_2-s5-3 定义子类GeeksforGeeks的对象
+            //p4_3-s1-3 定义子类GeeksforGeeks的对象
             GeeksforGeeks g = new GeeksforGeeks();
 
             // calling the method of base class
             // using the derived class object
-            //p4_2-s5-4 子类继承了父类的方法，所以子类对象可以调用父类中的方法
+            //p4_3-s1-4 子类继承了父类的方法，所以子类对象可以调用父类中的方法
             g.readers("Kirti", "C#");
         }
     }
