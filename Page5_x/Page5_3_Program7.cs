@@ -3,7 +3,7 @@ using System;
 namespace Examples
 {
 
-    class Geeks
+    class Geeks7
     {
 
         // function containing params parameters
@@ -22,7 +22,7 @@ namespace Examples
             return res;
         }
 
-        static void Main(string[] args)
+        static void Main7(string[] args)
         {
 
             // Calling mulval method
