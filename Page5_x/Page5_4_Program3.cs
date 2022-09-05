@@ -77,7 +77,7 @@ public class DerivedClass : clssA
     }
 
     // Main Method
-    static void Main()
+    static void Main_p5_4_program3()
     {
 
         // invoke no argument constructor
