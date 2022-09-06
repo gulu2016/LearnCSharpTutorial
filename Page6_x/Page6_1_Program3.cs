@@ -5,11 +5,11 @@ using System;
 namespace geeksforgeeks
 {
 
-    class GFG
+    class GFG_p6_1_program3
     {
 
         // Main Method
-        public static void Main()
+        public static void Main_p6_1_program3()
         {
             //p6_1-s3-1 一维数组是[]，只需要一个数字就能找到一个值
             //在以为数组上扩展二维数组是[][]，在找到第一个值的基础上，需要再给一个值，向下确定其深度
