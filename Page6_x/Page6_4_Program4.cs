@@ -25,7 +25,7 @@ class GFG
     }
 
     // Main method
-    public static void Main()
+    public static void Main_p6_4_program4()
     {
         string[] arr = {"Java", "C++", "Scala",
                         "C", "Ruby", "Python"};
