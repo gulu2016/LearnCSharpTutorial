@@ -4,11 +4,11 @@ using System;
 namespace geeksforgeeks
 {
 
-    class GFG
+    class GFG_p6_2_program1
     {
 
         // Main Method
-        public static void Main()
+        public static void Main_p6_2_program1()
         {
 
             // Declaration and Initialization of
