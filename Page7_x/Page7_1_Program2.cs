@@ -3,9 +3,9 @@
 using System;
 using System.Collections;
 
-public class GFG
+public class GFG_p7_1_program2
 {
-    static public void Main()
+    static public void Main_p7_1_program2()
     {
 
         // Creating ArrayList
