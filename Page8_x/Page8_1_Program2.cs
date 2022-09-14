@@ -1,11 +1,11 @@
 ﻿// C# program to demonstrate the
 // string creation using literals
 using System;
-class Geeks
+class Geeks_p8_1_program2
 {
 
     // Main Method
-    static void Main(string[] args)
+    static void Main_p8_1_program2(string[] args)
     {
         string str1 = "GeeksforGeeks";
         Console.WriteLine(str1);
