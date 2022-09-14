@@ -4,11 +4,11 @@
 // line and tab
 using System;
 
-public class GFG
+public class GFG_p8_2_program1
 {
 
     // Main method
-    static public void Main()
+    static public void Main_p8_2_program1()
     {
 
         // If you use the below commented
