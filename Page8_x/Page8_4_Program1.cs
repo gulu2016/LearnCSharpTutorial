@@ -4,11 +4,11 @@
 using System;
 using System.Text;
 
-class GFG
+class GFG_p8_4_program1
 {
 
     // Main Method
-    public static void Main()
+    public static void Main_p8_4_program1()
     {
 
         // "20" is capacity
