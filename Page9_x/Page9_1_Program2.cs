@@ -1,11 +1,11 @@
 ﻿// C# program to illustrate nested tuple
 using System;
 
-public class GFG
+public class GFG_p9_1_program2
 {
 
     // Main method
-    static public void Main()
+    static public void Main_p9_1_program2()
     {
 
         // Nested Tuple
